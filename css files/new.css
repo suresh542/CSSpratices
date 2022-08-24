@@ -1,0 +1,125 @@
+.h2tag{
+    background-color:red;
+}
+.h1_1{
+    color: cyan;
+}
+body{
+    background-color: lightblue;
+}
+.h1_1{
+    padding: 100%;
+    margin:10ch;
+}
+a{
+    text-decoration: none;
+    color:darkred;
+}
+.wonders:hover{
+    color:blue;
+}
+.wonders:active{
+    color:green;
+}
+.CAR_q{
+    border: 3px red;
+}
+.li_tick{
+    list-style: none;
+    list-style-image:url('../others/pnd\ tick.png') ;
+    
+}
+.form{
+    border: 50px red;
+    padding: 20px;
+    background-color:transparent;
+}
+.form_div{
+    padding: 10px;
+    
+}
+.form label{
+    display:block;
+}
+.form input [type="text"],.form textarea{
+    padding:10px;
+    width: 12%;
+}
+.form_div input[type="submit"]{
+    border-radius: 300px;
+    width: 100px;
+    padding: 10px 15px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder ;
+    font-size:large;
+border-block-start-style:dashed;
+}
+.form_div input[type="submit"]:hover{
+    background-color: rgb(145, 0, 0);
+    color: yellow;
+}
+.float_left{
+    float:left;
+    width: 33.3%;
+    border:1px solid gray;
+    padding:0.5%;
+    box-sizing: border-box;
+}
+.clr_1{
+    clear: both;
+}
+#box_fl{
+    float:left;
+    width: 70%;
+}
+#box_co{
+    float:left;
+    width:30%;
+    background-color: black ;
+    padding: 00.5%;
+    color: whitesmoke;
+    box-sizing: border-box;
+}
+.cont{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    background-color: blue;
+
+}
+.ku{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    background-color: cornsilk;
+    top: 50px;
+}
+.ku1{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    background-color: rgb(0, 255, 4);
+    top: 50px;
+}
+.fixedd{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 255, 4);
+    top: 50px;
+}
+.post1{
+    width: 300px;
+    height: 300px;
+    border: 1px black;
+    box-sizing: border-box;
+    background-color: aliceblue;
+}
+.post1 h1{
+    width: auto;
+    top: 10%;
+    left: 0px;
+    position: fixed;
+    background-color: blue;
+    
+}
