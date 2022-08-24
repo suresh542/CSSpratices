@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.mainPageHeader {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../../css/others/dark-wallpaper-9.jpg);
+    background-size: cover;
+    background-position:initial;
+    background-repeat: no-repeat;
+}
+.logoLink img{
+    width: 80px;
+    margin-top: 10px;
+    left:30px;
+}
+.mainPageNav{
+    position: absolute;
+    float: left;
+}
+.mainPageNav ul{
+    position: absolute;
+}   
+.mainPageNav ul li{
+    display: inline-block;
+    left:30px;
+    text-align: left;
+}
+.mainPageNav ul li a{
+    display: inline-block;
+    padding-left: 20px;
+    left: 200px;
+    text-decoration: none;
+}
+.mainPageNav ul li a{
+    position:absolute;
+    float:left;
+}
